@@ -1,0 +1,43 @@
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🇺🇸 RCS Sober Softball Showdown 🇺🇸</h1>
+    <p>Freedom. Fun. Fellowship.<br>July 5, 2025 | Goodrich Park</p>
+    <p><strong>FREE | Draft Style | Double Elimination | 11 Patriotic Teams</strong></p>
+  </header>
+
+  <nav>
+    <a href="#rosters">Rosters</a>
+    <a href="#bracket">Bracket</a>
+    <a href="#faq">FAQ</a>
+  </nav>
+
+  <section id="about" class="content-section">
+    <h2>About the Event</h2>
+    <div class="highlight">
+      <p>This Independence Weekend, join us for an explosive day of softball, support, and sober celebration! The RCS Sober Softball Showdown is a red-white-and-blue extravaganza — open to all in the recovery community. It’s FREE, it’s FUN, and it’s a powerful reminder of the freedom sobriety brings. 🎆</p>
+    </div>
+  </section>
+
+  <section id="rosters" class="content-section">
+    <h2>Team Rosters</h2>
+    <p>Rosters are heating up! Stay tuned for team names, captains, and players to be revealed. 🧨</p>
+    <!-- Optionally embed or link to live Google Doc -->
+  </section>
+
+  <section id="bracket" class="content-section">
+    <h2>Tournament Bracket</h2>
+    <p>Double elimination glory awaits. Bracket will be posted game day. 💥</p>
+    <!-- Optionally embed or link to live bracket image/Google Sheet -->
+  </section>
+
+  <section id="faq" class="content-section">
+    <h2>FAQ</h2>
+    <ul>
+      <li><strong>Who can play?</strong> Anyone in recovery or supporting the sober community. Let’s celebrate freedom together!</li>
+      <li><strong>What time does it start?</strong> Arrive at 8:00 AM for check-in and team draft. First pitch is at 9:00 AM sharp!</li>
+      <li><strong>What should I bring?</strong> Glove, cleats (optional), water, snacks, and all the patriotic energy you’ve got! 🇺🇸</li>
+      <li><strong>How are teams picked?</strong> It's draft-style! Captains will create balanced teams before first pitch.</li>
+    </ul>
+  </section>
